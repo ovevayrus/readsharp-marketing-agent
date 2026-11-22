@@ -1,0 +1,8 @@
+post_date,creator,platform,post_url,views,fee_usd,slug,promo_code
+2026-09-14,StudyNook,YouTube,https://example.com/post/1,9800,60,c-studynook,STUDYNOOK
+2026-09-28,QuietDesk,TikTok,https://example.com/post/2,31000,40,c-quietdesk,QUIETDESK
+2026-10-05,ReadSharp (own),Reddit,https://example.com/post/3,4100,0,c-own-reddit,
+2026-10-19,StudyNook,YouTube,https://example.com/post/4,14200,80,c-studynook,STUDYNOOK
+2026-11-04,QuietDesk,TikTok,https://example.com/post/5,26000,80,c-quietdesk,QUIETDESK
+2026-11-09,ReadSharp (own),Reddit,https://example.com/post/6,5300,0,c-own-reddit,
+2026-11-18,StudyNook,YouTube,https://example.com/post/7,21500,120,c-studynook,STUDYNOOK

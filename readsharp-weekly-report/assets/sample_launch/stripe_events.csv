@@ -1,0 +1,4 @@
+event_id,date,type,plan,amount_usd,promo_code
+evt_4223a62a7d00,2026-11-16,subscription_created,monthly,2.99,
+evt_3f49f4aab3f0,2026-11-18,subscription_created,yearly,24.99,
+evt_1d73a37ffab2,2026-11-20,subscription_created,monthly,2.99,

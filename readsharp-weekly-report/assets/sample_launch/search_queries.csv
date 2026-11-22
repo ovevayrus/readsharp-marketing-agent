@@ -1,0 +1,40 @@
+date,engine,page,query,impressions,clicks,position
+2026-11-09,google,/,readsharp,10,2,4.9
+2026-11-09,google,/reading-speed-test,reading speed test,20,0,24.3
+2026-11-09,google,/speed-reader-for-windows,speed reader for windows,3,0,13.9
+2026-11-10,google,/,readsharp,5,0,5.6
+2026-11-10,google,/reading-speed-test,reading speed test,23,1,25.0
+2026-11-10,google,/speed-reader-for-windows,speed reader for windows,6,0,11.9
+2026-11-11,google,/,readsharp,7,1,4.5
+2026-11-11,google,/reading-speed-test,reading speed test,22,1,23.6
+2026-11-11,google,/speed-reader-for-windows,speed reader for windows,14,0,13.1
+2026-11-12,google,/,readsharp,13,2,6.6
+2026-11-12,google,/reading-speed-test,reading speed test,20,0,24.8
+2026-11-12,google,/speed-reader-for-windows,speed reader for windows,6,0,14.4
+2026-11-13,google,/,readsharp,11,1,5.6
+2026-11-13,google,/reading-speed-test,reading speed test,23,2,24.4
+2026-11-13,google,/speed-reader-for-windows,speed reader for windows,6,1,12.9
+2026-11-14,google,/,readsharp,10,1,8.7
+2026-11-14,google,/reading-speed-test,reading speed test,15,0,25.9
+2026-11-14,google,/speed-reader-for-windows,speed reader for windows,11,0,13.0
+2026-11-15,google,/,readsharp,10,1,6.9
+2026-11-15,google,/reading-speed-test,reading speed test,26,0,23.1
+2026-11-15,google,/speed-reader-for-windows,speed reader for windows,12,0,12.8
+2026-11-16,google,/,readsharp,10,2,6.9
+2026-11-16,google,/reading-speed-test,reading speed test,15,0,23.0
+2026-11-16,google,/speed-reader-for-windows,speed reader for windows,10,0,14.0
+2026-11-17,google,/,readsharp,14,0,7.0
+2026-11-17,google,/reading-speed-test,reading speed test,28,2,25.3
+2026-11-17,google,/speed-reader-for-windows,speed reader for windows,2,0,12.5
+2026-11-18,google,/,readsharp,10,0,5.2
+2026-11-18,google,/reading-speed-test,reading speed test,24,1,23.6
+2026-11-18,google,/speed-reader-for-windows,speed reader for windows,9,1,11.6
+2026-11-19,google,/,readsharp,8,0,4.1
+2026-11-19,google,/reading-speed-test,reading speed test,20,0,25.1
+2026-11-19,google,/speed-reader-for-windows,speed reader for windows,8,0,12.7
+2026-11-20,google,/,readsharp,14,2,6.3
+2026-11-20,google,/reading-speed-test,reading speed test,24,0,25.0
+2026-11-20,google,/speed-reader-for-windows,speed reader for windows,13,1,11.2
+2026-11-21,google,/,readsharp,15,1,5.8
+2026-11-21,google,/reading-speed-test,reading speed test,18,1,24.3
+2026-11-21,google,/speed-reader-for-windows,speed reader for windows,8,1,13.2

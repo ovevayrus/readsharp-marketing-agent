@@ -1,0 +1,337 @@
+date,platform,campaign,impressions,clicks,cost_usd
+2026-08-31,google_ads,Windows speed reader [exact],176,7,6.0
+2026-08-31,google_ads,Speed reading app [phrase],110,5,3.86
+2026-08-31,microsoft_ads,Windows speed reader [exact],153,6,3.04
+2026-08-31,microsoft_ads,RSVP reader [phrase],93,4,2.05
+2026-09-01,google_ads,Windows speed reader [exact],203,8,6.1
+2026-09-01,google_ads,Speed reading app [phrase],105,5,3.8
+2026-09-01,microsoft_ads,Windows speed reader [exact],110,5,2.84
+2026-09-01,microsoft_ads,RSVP reader [phrase],71,3,1.89
+2026-09-02,google_ads,Windows speed reader [exact],162,8,6.32
+2026-09-02,google_ads,Speed reading app [phrase],103,5,3.94
+2026-09-02,microsoft_ads,Windows speed reader [exact],124,5,2.77
+2026-09-02,microsoft_ads,RSVP reader [phrase],88,4,1.94
+2026-09-03,google_ads,Windows speed reader [exact],148,7,5.87
+2026-09-03,google_ads,Speed reading app [phrase],112,5,3.73
+2026-09-03,microsoft_ads,Windows speed reader [exact],113,5,2.94
+2026-09-03,microsoft_ads,RSVP reader [phrase],66,3,1.92
+2026-09-04,google_ads,Windows speed reader [exact],150,7,5.73
+2026-09-04,google_ads,Speed reading app [phrase],119,5,3.84
+2026-09-04,microsoft_ads,Windows speed reader [exact],116,5,2.97
+2026-09-04,microsoft_ads,RSVP reader [phrase],107,4,1.92
+2026-09-05,google_ads,Windows speed reader [exact],175,7,5.78
+2026-09-05,google_ads,Speed reading app [phrase],123,5,3.96
+2026-09-05,microsoft_ads,Windows speed reader [exact],137,6,2.97
+2026-09-05,microsoft_ads,RSVP reader [phrase],98,4,1.95
+2026-09-06,google_ads,Windows speed reader [exact],198,8,6.13
+2026-09-06,google_ads,Speed reading app [phrase],89,4,3.83
+2026-09-06,microsoft_ads,Windows speed reader [exact],143,6,3.08
+2026-09-06,microsoft_ads,RSVP reader [phrase],96,4,2.04
+2026-09-07,google_ads,Windows speed reader [exact],157,7,5.69
+2026-09-07,google_ads,Speed reading app [phrase],130,5,3.97
+2026-09-07,microsoft_ads,Windows speed reader [exact],115,5,2.9
+2026-09-07,microsoft_ads,RSVP reader [phrase],87,4,1.86
+2026-09-08,google_ads,Windows speed reader [exact],171,7,5.48
+2026-09-08,google_ads,Speed reading app [phrase],104,5,3.78
+2026-09-08,microsoft_ads,Windows speed reader [exact],123,5,2.94
+2026-09-08,microsoft_ads,RSVP reader [phrase],82,4,1.81
+2026-09-09,google_ads,Windows speed reader [exact],171,8,5.72
+2026-09-09,google_ads,Speed reading app [phrase],121,5,4.0
+2026-09-09,microsoft_ads,Windows speed reader [exact],182,6,3.0
+2026-09-09,microsoft_ads,RSVP reader [phrase],72,3,1.9
+2026-09-10,google_ads,Windows speed reader [exact],189,7,5.39
+2026-09-10,google_ads,Speed reading app [phrase],109,5,4.0
+2026-09-10,microsoft_ads,Windows speed reader [exact],164,7,3.15
+2026-09-10,microsoft_ads,RSVP reader [phrase],104,4,1.99
+2026-09-11,google_ads,Windows speed reader [exact],175,8,6.18
+2026-09-11,google_ads,Speed reading app [phrase],123,5,3.89
+2026-09-11,microsoft_ads,Windows speed reader [exact],143,6,3.0
+2026-09-11,microsoft_ads,RSVP reader [phrase],103,4,1.94
+2026-09-12,google_ads,Windows speed reader [exact],161,7,5.84
+2026-09-12,google_ads,Speed reading app [phrase],116,6,4.02
+2026-09-12,microsoft_ads,Windows speed reader [exact],117,5,2.82
+2026-09-12,microsoft_ads,RSVP reader [phrase],99,4,1.94
+2026-09-13,google_ads,Windows speed reader [exact],131,7,5.6
+2026-09-13,google_ads,Speed reading app [phrase],125,6,3.94
+2026-09-13,microsoft_ads,Windows speed reader [exact],146,6,2.94
+2026-09-13,microsoft_ads,RSVP reader [phrase],75,3,1.85
+2026-09-14,google_ads,Windows speed reader [exact],207,8,5.93
+2026-09-14,google_ads,Speed reading app [phrase],106,5,3.92
+2026-09-14,microsoft_ads,Windows speed reader [exact],138,6,3.13
+2026-09-14,microsoft_ads,RSVP reader [phrase],89,4,1.92
+2026-09-15,google_ads,Windows speed reader [exact],157,7,5.7
+2026-09-15,google_ads,Speed reading app [phrase],118,5,3.53
+2026-09-15,microsoft_ads,Windows speed reader [exact],117,5,2.92
+2026-09-15,microsoft_ads,RSVP reader [phrase],98,4,1.91
+2026-09-16,google_ads,Windows speed reader [exact],148,7,6.09
+2026-09-16,google_ads,Speed reading app [phrase],99,5,3.64
+2026-09-16,microsoft_ads,Windows speed reader [exact],150,6,2.98
+2026-09-16,microsoft_ads,RSVP reader [phrase],106,4,1.98
+2026-09-17,google_ads,Windows speed reader [exact],166,8,5.88
+2026-09-17,google_ads,Speed reading app [phrase],105,5,3.69
+2026-09-17,microsoft_ads,Windows speed reader [exact],122,5,2.77
+2026-09-17,microsoft_ads,RSVP reader [phrase],95,4,1.85
+2026-09-18,google_ads,Windows speed reader [exact],165,7,6.07
+2026-09-18,google_ads,Speed reading app [phrase],89,4,3.55
+2026-09-18,microsoft_ads,Windows speed reader [exact],109,5,2.76
+2026-09-18,microsoft_ads,RSVP reader [phrase],105,4,2.06
+2026-09-19,google_ads,Windows speed reader [exact],183,8,5.95
+2026-09-19,google_ads,Speed reading app [phrase],96,5,3.9
+2026-09-19,microsoft_ads,Windows speed reader [exact],145,6,2.89
+2026-09-19,microsoft_ads,RSVP reader [phrase],88,4,1.96
+2026-09-20,google_ads,Windows speed reader [exact],176,8,5.99
+2026-09-20,google_ads,Speed reading app [phrase],107,5,4.02
+2026-09-20,microsoft_ads,Windows speed reader [exact],119,5,2.95
+2026-09-20,microsoft_ads,RSVP reader [phrase],93,4,2.02
+2026-09-21,google_ads,Windows speed reader [exact],187,8,5.7
+2026-09-21,google_ads,Speed reading app [phrase],126,6,4.14
+2026-09-21,microsoft_ads,Windows speed reader [exact],129,6,3.04
+2026-09-21,microsoft_ads,RSVP reader [phrase],102,4,1.97
+2026-09-22,google_ads,Windows speed reader [exact],176,8,6.19
+2026-09-22,google_ads,Speed reading app [phrase],115,5,3.96
+2026-09-22,microsoft_ads,Windows speed reader [exact],183,6,3.04
+2026-09-22,microsoft_ads,RSVP reader [phrase],102,4,2.18
+2026-09-23,google_ads,Windows speed reader [exact],131,7,5.8
+2026-09-23,google_ads,Speed reading app [phrase],99,5,3.9
+2026-09-23,microsoft_ads,Windows speed reader [exact],120,5,2.92
+2026-09-23,microsoft_ads,RSVP reader [phrase],98,4,2.02
+2026-09-24,google_ads,Windows speed reader [exact],149,7,6.05
+2026-09-24,google_ads,Speed reading app [phrase],119,5,3.77
+2026-09-24,microsoft_ads,Windows speed reader [exact],147,6,2.89
+2026-09-24,microsoft_ads,RSVP reader [phrase],100,4,2.02
+2026-09-25,google_ads,Windows speed reader [exact],173,7,5.62
+2026-09-25,google_ads,Speed reading app [phrase],110,5,3.84
+2026-09-25,microsoft_ads,Windows speed reader [exact],156,6,3.08
+2026-09-25,microsoft_ads,RSVP reader [phrase],104,4,1.9
+2026-09-26,google_ads,Windows speed reader [exact],164,7,6.06
+2026-09-26,google_ads,Speed reading app [phrase],99,5,3.83
+2026-09-26,microsoft_ads,Windows speed reader [exact],168,6,2.95
+2026-09-26,microsoft_ads,RSVP reader [phrase],85,4,2.1
+2026-09-27,google_ads,Windows speed reader [exact],166,7,5.46
+2026-09-27,google_ads,Speed reading app [phrase],114,5,4.02
+2026-09-27,microsoft_ads,Windows speed reader [exact],126,6,2.88
+2026-09-27,microsoft_ads,RSVP reader [phrase],94,4,1.92
+2026-09-28,google_ads,Windows speed reader [exact],161,7,5.52
+2026-09-28,google_ads,Speed reading app [phrase],98,5,4.12
+2026-09-28,microsoft_ads,Windows speed reader [exact],118,5,2.86
+2026-09-28,microsoft_ads,RSVP reader [phrase],99,4,1.97
+2026-09-29,google_ads,Windows speed reader [exact],163,7,5.85
+2026-09-29,google_ads,Speed reading app [phrase],112,5,3.99
+2026-09-29,microsoft_ads,Windows speed reader [exact],179,7,3.12
+2026-09-29,microsoft_ads,RSVP reader [phrase],73,3,1.95
+2026-09-30,google_ads,Windows speed reader [exact],149,7,5.75
+2026-09-30,google_ads,Speed reading app [phrase],105,5,3.98
+2026-09-30,microsoft_ads,Windows speed reader [exact],153,6,2.95
+2026-09-30,microsoft_ads,RSVP reader [phrase],87,4,1.98
+2026-10-01,google_ads,Windows speed reader [exact],196,9,6.19
+2026-10-01,google_ads,Speed reading app [phrase],122,5,3.77
+2026-10-01,microsoft_ads,Windows speed reader [exact],117,5,2.86
+2026-10-01,microsoft_ads,RSVP reader [phrase],77,3,1.87
+2026-10-02,google_ads,Windows speed reader [exact],147,7,5.89
+2026-10-02,google_ads,Speed reading app [phrase],90,4,3.82
+2026-10-02,microsoft_ads,Windows speed reader [exact],139,6,2.85
+2026-10-02,microsoft_ads,RSVP reader [phrase],102,4,1.97
+2026-10-03,google_ads,Windows speed reader [exact],150,7,5.94
+2026-10-03,google_ads,Speed reading app [phrase],104,5,3.61
+2026-10-03,microsoft_ads,Windows speed reader [exact],145,6,2.99
+2026-10-03,microsoft_ads,RSVP reader [phrase],91,4,1.98
+2026-10-04,google_ads,Windows speed reader [exact],167,8,5.76
+2026-10-04,google_ads,Speed reading app [phrase],108,5,3.84
+2026-10-04,microsoft_ads,Windows speed reader [exact],121,5,2.76
+2026-10-04,microsoft_ads,RSVP reader [phrase],92,4,1.93
+2026-10-05,google_ads,Windows speed reader [exact],191,8,6.22
+2026-10-05,google_ads,Speed reading app [phrase],128,6,4.05
+2026-10-05,microsoft_ads,Windows speed reader [exact],174,6,3.17
+2026-10-05,microsoft_ads,RSVP reader [phrase],99,4,2.04
+2026-10-06,google_ads,Windows speed reader [exact],172,8,6.14
+2026-10-06,google_ads,Speed reading app [phrase],112,5,3.92
+2026-10-06,microsoft_ads,Windows speed reader [exact],161,6,2.93
+2026-10-06,microsoft_ads,RSVP reader [phrase],70,3,1.85
+2026-10-07,google_ads,Windows speed reader [exact],191,8,5.73
+2026-10-07,google_ads,Speed reading app [phrase],116,5,4.04
+2026-10-07,microsoft_ads,Windows speed reader [exact],122,5,2.77
+2026-10-07,microsoft_ads,RSVP reader [phrase],109,4,2.02
+2026-10-08,google_ads,Windows speed reader [exact],185,8,6.16
+2026-10-08,google_ads,Speed reading app [phrase],126,5,4.16
+2026-10-08,microsoft_ads,Windows speed reader [exact],148,6,3.05
+2026-10-08,microsoft_ads,RSVP reader [phrase],91,4,1.99
+2026-10-09,google_ads,Windows speed reader [exact],157,7,6.2
+2026-10-09,google_ads,Speed reading app [phrase],99,5,3.61
+2026-10-09,microsoft_ads,Windows speed reader [exact],134,6,3.13
+2026-10-09,microsoft_ads,RSVP reader [phrase],96,4,1.91
+2026-10-10,google_ads,Windows speed reader [exact],172,8,6.03
+2026-10-10,google_ads,Speed reading app [phrase],129,5,3.74
+2026-10-10,microsoft_ads,Windows speed reader [exact],139,6,2.96
+2026-10-10,microsoft_ads,RSVP reader [phrase],95,4,2.02
+2026-10-11,google_ads,Windows speed reader [exact],177,7,5.43
+2026-10-11,google_ads,Speed reading app [phrase],104,5,3.98
+2026-10-11,microsoft_ads,Windows speed reader [exact],143,6,3.02
+2026-10-11,microsoft_ads,RSVP reader [phrase],91,4,1.99
+2026-10-12,google_ads,Windows speed reader [exact],168,8,6.25
+2026-10-12,google_ads,Speed reading app [phrase],102,5,3.73
+2026-10-12,microsoft_ads,Windows speed reader [exact],145,6,2.77
+2026-10-12,microsoft_ads,RSVP reader [phrase],84,4,1.92
+2026-10-13,google_ads,Windows speed reader [exact],164,7,5.49
+2026-10-13,google_ads,Speed reading app [phrase],123,6,4.01
+2026-10-13,microsoft_ads,Windows speed reader [exact],145,6,2.79
+2026-10-13,microsoft_ads,RSVP reader [phrase],82,4,1.96
+2026-10-14,google_ads,Windows speed reader [exact],207,8,6.03
+2026-10-14,google_ads,Speed reading app [phrase],106,5,4.1
+2026-10-14,microsoft_ads,Windows speed reader [exact],128,6,2.81
+2026-10-14,microsoft_ads,RSVP reader [phrase],107,4,2.11
+2026-10-15,google_ads,Windows speed reader [exact],183,8,6.01
+2026-10-15,google_ads,Speed reading app [phrase],120,5,4.08
+2026-10-15,microsoft_ads,Windows speed reader [exact],149,6,3.01
+2026-10-15,microsoft_ads,RSVP reader [phrase],95,4,2.05
+2026-10-16,google_ads,Windows speed reader [exact],182,8,5.6
+2026-10-16,google_ads,Speed reading app [phrase],113,5,3.89
+2026-10-16,microsoft_ads,Windows speed reader [exact],135,6,3.03
+2026-10-16,microsoft_ads,RSVP reader [phrase],98,4,1.87
+2026-10-17,google_ads,Windows speed reader [exact],162,7,6.14
+2026-10-17,google_ads,Speed reading app [phrase],110,5,4.02
+2026-10-17,microsoft_ads,Windows speed reader [exact],141,6,2.93
+2026-10-17,microsoft_ads,RSVP reader [phrase],84,4,2.0
+2026-10-18,google_ads,Windows speed reader [exact],178,7,5.89
+2026-10-18,google_ads,Speed reading app [phrase],111,5,3.74
+2026-10-18,microsoft_ads,Windows speed reader [exact],144,6,2.99
+2026-10-18,microsoft_ads,RSVP reader [phrase],84,4,2.02
+2026-10-19,google_ads,Windows speed reader [exact],158,7,5.76
+2026-10-19,google_ads,Speed reading app [phrase],109,5,3.75
+2026-10-19,microsoft_ads,Windows speed reader [exact],138,6,3.01
+2026-10-19,microsoft_ads,RSVP reader [phrase],96,4,2.08
+2026-10-20,google_ads,Windows speed reader [exact],168,7,5.85
+2026-10-20,google_ads,Speed reading app [phrase],114,5,4.25
+2026-10-20,microsoft_ads,Windows speed reader [exact],126,5,2.91
+2026-10-20,microsoft_ads,RSVP reader [phrase],101,4,1.96
+2026-10-21,google_ads,Windows speed reader [exact],158,8,5.75
+2026-10-21,google_ads,Speed reading app [phrase],112,5,3.83
+2026-10-21,microsoft_ads,Windows speed reader [exact],138,6,3.09
+2026-10-21,microsoft_ads,RSVP reader [phrase],89,4,2.04
+2026-10-22,google_ads,Windows speed reader [exact],194,8,5.68
+2026-10-22,google_ads,Speed reading app [phrase],127,5,3.83
+2026-10-22,microsoft_ads,Windows speed reader [exact],149,6,3.13
+2026-10-22,microsoft_ads,RSVP reader [phrase],80,3,1.92
+2026-10-23,google_ads,Windows speed reader [exact],187,8,5.65
+2026-10-23,google_ads,Speed reading app [phrase],111,5,3.92
+2026-10-23,microsoft_ads,Windows speed reader [exact],119,5,2.95
+2026-10-23,microsoft_ads,RSVP reader [phrase],91,4,2.07
+2026-10-24,google_ads,Windows speed reader [exact],154,7,5.89
+2026-10-24,google_ads,Speed reading app [phrase],125,6,4.17
+2026-10-24,microsoft_ads,Windows speed reader [exact],138,6,2.97
+2026-10-24,microsoft_ads,RSVP reader [phrase],92,4,1.97
+2026-10-25,google_ads,Windows speed reader [exact],185,8,5.59
+2026-10-25,google_ads,Speed reading app [phrase],111,5,3.79
+2026-10-25,microsoft_ads,Windows speed reader [exact],142,6,3.09
+2026-10-25,microsoft_ads,RSVP reader [phrase],93,4,1.99
+2026-10-26,google_ads,Windows speed reader [exact],131,7,5.52
+2026-10-26,google_ads,Speed reading app [phrase],93,5,3.86
+2026-10-26,microsoft_ads,Windows speed reader [exact],124,5,2.93
+2026-10-26,microsoft_ads,RSVP reader [phrase],78,4,1.98
+2026-10-27,google_ads,Windows speed reader [exact],167,7,5.98
+2026-10-27,google_ads,Speed reading app [phrase],128,6,4.15
+2026-10-27,microsoft_ads,Windows speed reader [exact],112,5,2.72
+2026-10-27,microsoft_ads,RSVP reader [phrase],119,4,1.96
+2026-10-28,google_ads,Windows speed reader [exact],148,7,5.68
+2026-10-28,google_ads,Speed reading app [phrase],158,6,3.89
+2026-10-28,microsoft_ads,Windows speed reader [exact],127,5,2.99
+2026-10-28,microsoft_ads,RSVP reader [phrase],102,4,2.08
+2026-10-29,google_ads,Windows speed reader [exact],133,7,5.66
+2026-10-29,google_ads,Speed reading app [phrase],109,5,3.95
+2026-10-29,microsoft_ads,Windows speed reader [exact],162,6,3.05
+2026-10-29,microsoft_ads,RSVP reader [phrase],100,4,1.9
+2026-10-30,google_ads,Windows speed reader [exact],162,7,5.81
+2026-10-30,google_ads,Speed reading app [phrase],131,6,3.95
+2026-10-30,microsoft_ads,Windows speed reader [exact],130,6,3.01
+2026-10-30,microsoft_ads,RSVP reader [phrase],92,4,1.9
+2026-10-31,google_ads,Windows speed reader [exact],175,7,5.98
+2026-10-31,google_ads,Speed reading app [phrase],96,4,3.9
+2026-10-31,microsoft_ads,Windows speed reader [exact],114,5,2.89
+2026-10-31,microsoft_ads,RSVP reader [phrase],92,4,1.97
+2026-11-01,google_ads,Windows speed reader [exact],163,8,5.89
+2026-11-01,google_ads,Speed reading app [phrase],114,5,3.92
+2026-11-01,microsoft_ads,Windows speed reader [exact],126,5,2.86
+2026-11-01,microsoft_ads,RSVP reader [phrase],94,4,1.88
+2026-11-02,google_ads,Windows speed reader [exact],178,8,5.85
+2026-11-02,google_ads,Speed reading app [phrase],97,5,3.65
+2026-11-02,microsoft_ads,Windows speed reader [exact],134,6,3.0
+2026-11-02,microsoft_ads,RSVP reader [phrase],104,4,1.97
+2026-11-03,google_ads,Windows speed reader [exact],155,8,6.1
+2026-11-03,google_ads,Speed reading app [phrase],113,5,4.1
+2026-11-03,microsoft_ads,Windows speed reader [exact],143,6,2.75
+2026-11-03,microsoft_ads,RSVP reader [phrase],98,4,2.06
+2026-11-04,google_ads,Windows speed reader [exact],122,7,5.53
+2026-11-04,google_ads,Speed reading app [phrase],127,5,3.9
+2026-11-04,microsoft_ads,Windows speed reader [exact],148,6,2.9
+2026-11-04,microsoft_ads,RSVP reader [phrase],106,4,2.03
+2026-11-05,google_ads,Windows speed reader [exact],181,8,5.83
+2026-11-05,google_ads,Speed reading app [phrase],97,5,3.76
+2026-11-05,microsoft_ads,Windows speed reader [exact],114,5,2.8
+2026-11-05,microsoft_ads,RSVP reader [phrase],90,4,2.07
+2026-11-06,google_ads,Windows speed reader [exact],153,7,6.22
+2026-11-06,google_ads,Speed reading app [phrase],111,5,3.91
+2026-11-06,microsoft_ads,Windows speed reader [exact],136,6,2.91
+2026-11-06,microsoft_ads,RSVP reader [phrase],109,4,1.99
+2026-11-07,google_ads,Windows speed reader [exact],166,8,5.95
+2026-11-07,google_ads,Speed reading app [phrase],143,6,3.97
+2026-11-07,microsoft_ads,Windows speed reader [exact],134,6,2.88
+2026-11-07,microsoft_ads,RSVP reader [phrase],84,4,2.08
+2026-11-08,google_ads,Windows speed reader [exact],153,7,5.73
+2026-11-08,google_ads,Speed reading app [phrase],105,5,3.85
+2026-11-08,microsoft_ads,Windows speed reader [exact],152,6,3.09
+2026-11-08,microsoft_ads,RSVP reader [phrase],93,4,1.97
+2026-11-09,google_ads,Windows speed reader [exact],184,8,5.59
+2026-11-09,google_ads,Speed reading app [phrase],111,5,3.97
+2026-11-09,microsoft_ads,Windows speed reader [exact],146,7,3.11
+2026-11-09,microsoft_ads,RSVP reader [phrase],95,4,2.1
+2026-11-10,google_ads,Windows speed reader [exact],156,8,5.84
+2026-11-10,google_ads,Speed reading app [phrase],127,5,3.97
+2026-11-10,microsoft_ads,Windows speed reader [exact],163,7,3.04
+2026-11-10,microsoft_ads,RSVP reader [phrase],93,4,1.88
+2026-11-11,google_ads,Windows speed reader [exact],145,7,5.84
+2026-11-11,google_ads,Speed reading app [phrase],120,5,3.99
+2026-11-11,microsoft_ads,Windows speed reader [exact],148,6,3.05
+2026-11-11,microsoft_ads,RSVP reader [phrase],95,4,1.92
+2026-11-12,google_ads,Windows speed reader [exact],160,8,6.24
+2026-11-12,google_ads,Speed reading app [phrase],106,5,3.99
+2026-11-12,microsoft_ads,Windows speed reader [exact],117,5,2.92
+2026-11-12,microsoft_ads,RSVP reader [phrase],90,4,1.92
+2026-11-13,google_ads,Windows speed reader [exact],169,7,5.7
+2026-11-13,google_ads,Speed reading app [phrase],112,5,4.09
+2026-11-13,microsoft_ads,Windows speed reader [exact],136,6,3.05
+2026-11-13,microsoft_ads,RSVP reader [phrase],101,4,2.01
+2026-11-14,google_ads,Windows speed reader [exact],182,8,5.49
+2026-11-14,google_ads,Speed reading app [phrase],112,5,3.77
+2026-11-14,microsoft_ads,Windows speed reader [exact],146,6,2.98
+2026-11-14,microsoft_ads,RSVP reader [phrase],111,4,2.05
+2026-11-15,google_ads,Windows speed reader [exact],170,7,6.1
+2026-11-15,google_ads,Speed reading app [phrase],98,5,4.13
+2026-11-15,microsoft_ads,Windows speed reader [exact],123,6,2.88
+2026-11-15,microsoft_ads,RSVP reader [phrase],70,3,1.91
+2026-11-16,google_ads,Windows speed reader [exact],167,8,5.67
+2026-11-16,google_ads,Speed reading app [phrase],104,5,3.75
+2026-11-16,microsoft_ads,Windows speed reader [exact],134,4,2.81
+2026-11-16,microsoft_ads,RSVP reader [phrase],88,3,2.02
+2026-11-17,google_ads,Windows speed reader [exact],200,8,6.38
+2026-11-17,google_ads,Speed reading app [phrase],112,5,4.14
+2026-11-17,microsoft_ads,Windows speed reader [exact],120,4,3.15
+2026-11-17,microsoft_ads,RSVP reader [phrase],64,2,1.95
+2026-11-18,google_ads,Windows speed reader [exact],160,7,6.45
+2026-11-18,google_ads,Speed reading app [phrase],103,5,3.83
+2026-11-18,microsoft_ads,Windows speed reader [exact],145,4,2.88
+2026-11-18,microsoft_ads,RSVP reader [phrase],95,3,1.91
+2026-11-19,google_ads,Windows speed reader [exact],148,7,6.03
+2026-11-19,google_ads,Speed reading app [phrase],77,4,3.67
+2026-11-19,microsoft_ads,Windows speed reader [exact],141,4,2.93
+2026-11-19,microsoft_ads,RSVP reader [phrase],63,2,1.84
+2026-11-20,google_ads,Windows speed reader [exact],159,7,5.61
+2026-11-20,google_ads,Speed reading app [phrase],113,5,3.92
+2026-11-20,microsoft_ads,Windows speed reader [exact],140,4,2.86
+2026-11-20,microsoft_ads,RSVP reader [phrase],64,2,1.87
+2026-11-21,google_ads,Windows speed reader [exact],180,8,5.93
+2026-11-21,google_ads,Speed reading app [phrase],100,5,3.78
+2026-11-21,microsoft_ads,Windows speed reader [exact],120,4,2.96
+2026-11-21,microsoft_ads,RSVP reader [phrase],98,3,1.89
+2026-11-22,google_ads,Windows speed reader [exact],195,8,6.08
+2026-11-22,google_ads,Speed reading app [phrase],111,5,3.76
+2026-11-22,microsoft_ads,Windows speed reader [exact],141,4,2.97
+2026-11-22,microsoft_ads,RSVP reader [phrase],68,2,1.98

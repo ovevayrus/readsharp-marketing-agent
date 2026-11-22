@@ -1,0 +1,53 @@
+{
+  "product": "ReadSharp",
+  "currency": "USD",
+  "prices_usd": {"monthly": 2.99, "yearly": 24.99},
+  "gross_margin": 0.80,
+  "gross_margin_note": "Assumption, used only when stripe_fees.csv or ai_usage.csv is missing: share of subscription revenue kept after Stripe/Link fees and ReadSharp AI costs.",
+  "ai_cost_usd_per_million_tokens": 0.50,
+  "ai_cost_note": "Assumption: blended Workers AI price per million gpt-oss-120b tokens (input and output). Replace it with the figure from your Cloudflare bill.",
+  "starting_active_subscribers": {"as_of": "2026-11-01", "monthly": 0, "yearly": 0},
+  "starting_note": "No live subscriptions existed before the November 2026 launch, so stripe_events.csv holds them all.",
+  "monthly_budgets_usd": {"google_ads": 300, "microsoft_ads": 150, "creators": 200},
+  "thresholds": {
+    "wow_change_pct": 15,
+    "z_score": 2.0,
+    "z_score_high": 3.0,
+    "baseline_weeks": 6,
+    "rate_baseline_weeks": 4,
+    "rate_test_alpha": 0.05,
+    "rate_test_alpha_high": 0.001,
+    "min_denominator": 30,
+    "min_full_weeks": 3,
+    "launch_daily_days": 14,
+    "pacing_tolerance_pct": 10,
+    "trend_weeks": 8
+  },
+  "guardrails": {
+    "max_cost_per_download_usd": 2.50,
+    "max_blended_cac_4w_usd": 25.00,
+    "min_ltv_to_cac": 3.0,
+    "max_refund_rate_4w_pct": 3.0,
+    "max_monthly_churn_pct": 8.0
+  },
+  "striking_distance": {"min_position": 8, "max_position": 20, "min_impressions": 50, "days": 28, "top_n": 10},
+  "paths": {
+    "site_host": "readsharp.app",
+    "download_host": "downloads.readsharp.app",
+    "download_click_prefix": "/get/",
+    "installer_pattern": "/updates/windows-x64/ReadSharp-Setup-*.exe",
+    "update_blockmap_pattern": "/updates/windows-x64/ReadSharp-Setup-*.exe.blockmap",
+    "update_check": "/updates/windows-x64/latest.yml",
+    "email_link": "/e",
+    "share_link": "/s",
+    "landing_prefixes": ["/lp/", "/c/"]
+  },
+  "mac_os_pattern": "^mac",
+  "download_sources": {
+    "site": "Organic & direct",
+    "google-ads": "Google Ads",
+    "microsoft-ads": "Microsoft Ads",
+    "email": "Email",
+    "c-": "Creators & own posts"
+  }
+}
